@@ -1,0 +1,23 @@
+{
+  "name": "using_libr_browser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gronik4/using_libr_browser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gronik4/using_libr_browser/issues"
+  },
+  "homepage": "https://github.com/Gronik4/using_libr_browser#readme",
+  "dependencies": {
+    "@gronik4/ajs_libr": "^1.0.0"
+  }
+}
